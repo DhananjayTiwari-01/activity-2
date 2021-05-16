@@ -30,3 +30,7 @@ function draw(){
     ground.display();
    
 }
+
+function whenever(){
+
+}
